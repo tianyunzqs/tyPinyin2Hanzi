@@ -6,9 +6,9 @@
 
 
 ## 测试
-测试数据：开源语音数据集[data_thchs30](https://openslr.magicdatatech.com/resources/18/data_thchs30.tgz) (点击下载)
-预处理脚本：thchs30_preprocess.py
-测试脚本：model_test.py
+测试数据：开源语音数据集[data_thchs30](https://openslr.magicdatatech.com/resources/18/data_thchs30.tgz) (点击下载)  
+预处理脚本：thchs30_preprocess.py  
+测试脚本：model_test.py  
 
 利用预处理脚本，讲原始的thchs30数据集集合到一个文本中，方便测试  
 利用语音识别ASR的thchs30数据集（共计26777篇文档，每篇文档一句话）对拼音转汉字模型进行测试，测试结果如下：  
